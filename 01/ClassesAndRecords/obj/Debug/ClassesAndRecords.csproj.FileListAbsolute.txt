@@ -1,0 +1,7 @@
+C:\Users\a.moreno.berrocal\Desktop\repositorio-records\ClassesAndRecords\ClassesAndRecords\bin\Debug\ClassesAndRecords.exe.config
+C:\Users\a.moreno.berrocal\Desktop\repositorio-records\ClassesAndRecords\ClassesAndRecords\bin\Debug\ClassesAndRecords.exe
+C:\Users\a.moreno.berrocal\Desktop\repositorio-records\ClassesAndRecords\ClassesAndRecords\bin\Debug\ClassesAndRecords.pdb
+C:\Users\a.moreno.berrocal\Desktop\repositorio-records\ClassesAndRecords\ClassesAndRecords\obj\Debug\ClassesAndRecords.csproj.AssemblyReference.cache
+C:\Users\a.moreno.berrocal\Desktop\repositorio-records\ClassesAndRecords\ClassesAndRecords\obj\Debug\ClassesAndRecords.csproj.CoreCompileInputs.cache
+C:\Users\a.moreno.berrocal\Desktop\repositorio-records\ClassesAndRecords\ClassesAndRecords\obj\Debug\ClassesAndRecords.exe
+C:\Users\a.moreno.berrocal\Desktop\repositorio-records\ClassesAndRecords\ClassesAndRecords\obj\Debug\ClassesAndRecords.pdb
