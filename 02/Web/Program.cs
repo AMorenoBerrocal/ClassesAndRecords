@@ -61,4 +61,15 @@ namespace Web
             }
         }
     }
+
+    public record TimedCourseRecord(string Name, string Author, int Duration) : CourseRecord(Name, Author)
+    {
+        public string Vennue { get; set; }
+        public virtual bool Equals(TimedCourseRecord other)
+        {
+            //
+            //return Name = other.Name;
+            return true;
+        }
+    } 
 }
