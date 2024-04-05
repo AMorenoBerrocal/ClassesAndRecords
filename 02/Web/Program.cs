@@ -20,6 +20,11 @@ namespace Web
             Console.WriteLine(name);
             Console.WriteLine(author);
 
+            var classroomCourse = new CourseRecord(
+                "Working with c# records", "Alejandro");
+
+            var anotherCourse = classroomCourse with { Name = "C# getting started", Description = "Alberto" };
+
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
             builder.RootComponents.Add<App>("#app");
 
