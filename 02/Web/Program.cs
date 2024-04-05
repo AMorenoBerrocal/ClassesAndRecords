@@ -47,6 +47,18 @@ namespace Web
             author = Author;
         }
 
+
     }
-    public record CourseRecord(string Name, String Description);
+    public record CourseRecord(string Name, string Description)
+    {
+
+        public string Name { get; init; }
+        public string Author { get; init; }
+        public string Title
+        {
+            get {
+                return $"{Name} - {Description}";
+            }
+        }
+    }
 }
