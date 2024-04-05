@@ -20,13 +20,11 @@ namespace ClassesAndRecords
             pluralsightCourse.Name = "Working with c# records";
             pluralsightCourse.Author = "Alejandro";
 
-            PrintCourse(pluralsightCourse);
-
-            var anotherCourse = pluralsightCourse;
-
-            Console.WriteLine(pluralsightCourse.Name);
-            Console.WriteLine(anotherCourse.Author);
-
+            //var classroomCourse = new CourseRecord(
+            //    "Working with c# record", 
+            //    "Alejandro"
+            //    );
+            //classroomCourse.Name = "Another title";
         }
     }
 
@@ -35,4 +33,7 @@ namespace ClassesAndRecords
         public string Name { get; set; }
         public string Author { get; set; }
     }
+
+    public record CourseRecord(string Name, string Author);
+     
 }
