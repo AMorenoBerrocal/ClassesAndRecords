@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BMXTi5Q97ILPekKxiCKUTuicu5FeHadf9Z5h8aLYOKzCQDxhPA4XBy5GwGxajP47Dyn6yf9WWFIJKJjI4TeDKg==",
+  "dgSpecHash": "JOmc+xrRG2iI/1L/auT2fkIglSDLiyT+irPLWMHlHf2s72JzEJN/4zffsT8sWcaH2SEmLBM4ZlPEgSYwy4bcjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-records\\ClassesAndRecords\\02\\Web\\Web.csproj",
+  "projectFilePath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-record\\02\\Web\\Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.moreno.berrocal\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.0\\microsoft.aspnetcore.authorization.5.0.0.nupkg.sha512",
     "C:\\Users\\a.moreno.berrocal\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.0\\microsoft.aspnetcore.components.5.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-records\\ClassesAndRecords\\02\\Api\\Api.csproj": {}
+    "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-record\\02\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-records\\ClassesAndRecords\\02\\Api\\Api.csproj": {
+    "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-record\\02\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-records\\ClassesAndRecords\\02\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-record\\02\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-records\\ClassesAndRecords\\02\\Api\\Api.csproj",
+        "projectPath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-record\\02\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\a.moreno.berrocal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-records\\ClassesAndRecords\\02\\Api\\obj\\",
+        "outputPath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-record\\02\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.moreno.berrocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-records\\ClassesAndRecords\\02\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-records\\ClassesAndRecords\\02\\Shared\\Shared.csproj"
+              "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-record\\02\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-record\\02\\Shared\\Shared.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-records\\ClassesAndRecords\\02\\Shared\\Shared.csproj": {
+    "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-record\\02\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-records\\ClassesAndRecords\\02\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-record\\02\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-records\\ClassesAndRecords\\02\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-record\\02\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\a.moreno.berrocal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-records\\ClassesAndRecords\\02\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-record\\02\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.moreno.berrocal\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7OKjQcjiHQoDuZsHd33CNNmUMe61wuDz0ivQjIVTUDl+5YHhruKZJ5tOZmMgSdkOGtkLbIT3Ieo/z8kobyrfuw==",
+  "dgSpecHash": "tc791k2l892EAnCanoKlHwj1HOzubfeKjnk07kEL24psexWQlM2J/+iznKS/u28E2L7O3e7GQdbvPlhXO6O0cA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-records\\ClassesAndRecords\\02\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\a.moreno.berrocal\\Desktop\\repositorio-record\\02\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.moreno.berrocal\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "C:\\Users\\a.moreno.berrocal\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
